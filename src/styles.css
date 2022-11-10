@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-image: url("https://spoonuniversity.com/cdn-cgi/image/width=1920,format=auto,quality=90/https://s3.amazonaws.com/secretsaucefiles/photos/images/000/116/658/original/Screen-Shot-2016-06-14-at-1.16.32-PM.png?1485406286");
+}

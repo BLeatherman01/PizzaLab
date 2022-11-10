@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+.menu{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.75);
+    padding: 30px;
+}
+
+.menuTitle{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menuList{
+    padding: 0;
+}
+
+.menuItem{
+    display: flex;
+    justify-content: space-between;
+}
+
